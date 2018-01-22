@@ -3,7 +3,7 @@ import javafx.scene.control.TextInputDialog;
 import javafx.stage.Stage;
 import java.util.Optional;
 
-public class Exercise2_9 {
+public class Exercise2_9 extends Application{
 
     public void acceleration(Stage primaryStage){
 
