@@ -2,6 +2,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.TextInputDialog;
 import javafx.stage.Stage;
 import java.util.Optional;
+import javafx.application.Application;
 
 public class Exercise2_9 extends Application{
 
