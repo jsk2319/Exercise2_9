@@ -5,7 +5,7 @@ import java.util.Optional;
 
 public class Exercise2_9 extends Application{
 
-    public void acceleration(Stage primaryStage){
+    public void start(Stage primaryStage){
 
         TextInputDialog vZero = new TextInputDialog();
         vZero.setTitle("Enter Input");
